@@ -1,0 +1,22 @@
+<html>
+
+<head>
+<title>Mi primera vez</title>
+</head>
+
+<body>
+<H1>
+Lenguaje de etiquetas
+</H1>
+<img src="https://imagenesbonitas.co/wp-content/uploads/2016/02/aniperritosygatitos.jpg16.jpg">
+<p>Me levante a las 7 para venir a mis clase de las 7:15</p>
+
+<script>
+alert("hola mundo");
+
+</script>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvt9nssEcno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
